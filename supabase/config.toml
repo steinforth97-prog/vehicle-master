@@ -1,0 +1,23 @@
+project_id = "idwljcslokztmnrtwaqd"
+
+[functions.extract-vehicle-pdf]
+verify_jwt = false
+
+[functions.edit-vehicle-image]
+verify_jwt = false
+
+[functions.research-vehicle-tech]
+verify_jwt = false
+
+[functions.composite-vehicle-bg]
+verify_jwt = false
+
+[functions.edit-background-image]
+verify_jwt = false
+
+[functions.scan-document]
+verify_jwt = false
+
+[functions.suggest-invoice-positions]
+verify_jwt = false
+

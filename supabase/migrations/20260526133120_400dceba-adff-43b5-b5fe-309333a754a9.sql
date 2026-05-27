@@ -1,0 +1,1 @@
+ALTER TYPE public.motorhome_doc_type ADD VALUE IF NOT EXISTS 'angebot';

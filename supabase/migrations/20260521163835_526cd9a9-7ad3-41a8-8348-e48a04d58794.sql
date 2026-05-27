@@ -1,0 +1,1 @@
+ALTER TABLE public.motorhomes ADD COLUMN sale_price numeric;

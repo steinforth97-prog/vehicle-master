@@ -1,0 +1,1 @@
+ALTER TABLE public.motorhomes ADD COLUMN license_plate text;
